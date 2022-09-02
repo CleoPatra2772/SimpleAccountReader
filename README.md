@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+![AccountInfoDisplay!](./src/image/Screen%20Shot%202022-09-02%20at%208.23.49%20PM.png)
+
+Find out your account balance and more! 
+This project is created using ReactJS, Web3Js, and Solidity. 
+👉CLick refresh to update the current status of the account
+👉CLick token to checkout how many CLEO COIN you own!!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

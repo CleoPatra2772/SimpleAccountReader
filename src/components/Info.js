@@ -94,7 +94,7 @@ export const Info = () => {
     return(
         <div className='home-container'>
             <div className="basic-info">
-            <h2>React/ JS / React / MetaMask / BlockChain / Solidity Smart Contract</h2>
+            <h2>React/ JS / MetaMask / BlockChain / Solidity Smart Contract</h2>
             <p>Netid: <span>{networkID}</span></p>
             <p>Net Type: <span>{network}</span></p>
             <p>My Account: <span className="important-info">{account.accountId} </span></p>
