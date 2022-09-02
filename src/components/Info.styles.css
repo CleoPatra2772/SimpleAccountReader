@@ -1,0 +1,57 @@
+div{
+    /* font-family: 'Press Start 2P', cursive; */
+    font-family: 'Electrolize', sans-serif;
+    
+}
+
+h2{
+    color: #C21E56;
+}
+
+
+.home-container{
+padding-bottom: 300px;
+}
+
+.basic-info{
+    
+    /* width:500px; 
+    max-width:500px;
+    height: 600px; */
+    margin: auto;
+    max-width: 600px;
+    text-align: center;
+    padding: 10px;
+    background-color: 	rgb(112, 167, 179);
+    color: white;
+    opacity: 1.0;
+    font-size:large;
+    /* (240, 46, 170, 0.4) */
+    box-shadow: rgb(194, 30, 86) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+    border-radius: 5%;
+}
+
+.important-info{
+    color: #FDDA0D;
+}
+
+button {
+   font-family: 'Electrolize', sans-serif;
+   font-size: 20px;
+   padding: 10px;
+   border-radius: 10px;
+   margin: 20px;
+   color:white;
+   border: none;
+   background-color: rgb(112, 167, 179);
+   box-shadow: rgb(194, 30, 86) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+.btngroup{
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
+   
